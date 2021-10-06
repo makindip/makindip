@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @makindip
-- 👀 I’m interested in ...Biophysics & Chemical Theory
-- 🌱 I’m currently learning ...AGI
-- 💞️ I’m looking to collaborate on ...anything really 
+- 👀 I’m interested in ...Data Science, Machine Learning & Chemical Theory
+- 🌱 I’m currently learning ...Deep Learning, Intelligent Agents & Reinforcement Learning  in Python
+- 💞️ I’m looking to collaborate on ...Open to many things
 - 📫 How to reach me ...here.
 
 <!---
