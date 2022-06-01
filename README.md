@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @makindip
-- 👀 I’m interested in ...Data Science, Machine Learning & Chemical Theory
-- 🌱 I’m currently learning ...Deep Learning, Intelligent Agents & Reinforcement Learning  in Python
-- 💞️ I’m looking to collaborate on ...Open to many things
-- 📫 How to reach me ...here.
+- 👀 I’m interested in ...Data Science, AgTech and Urban Planning
+- 🌱 I’m currently learning ...about RL Agents for Bike Share redistribution, using Python, MySQL & Tableau
+- 💞️ I’m looking to collaborate on ...Regarding telemetry and IoT
+- 📫 How to reach me ...here or reach out on LinkedIn!
 
 <!---
 makindip/makindip is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
